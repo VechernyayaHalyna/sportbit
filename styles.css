@@ -174,7 +174,7 @@ body {
     padding: 120px 0;
 }
 
-.footer-text{
+.footer-text p{
     font-weight: 400;
     font-size: 15px;
     line-height: 1.3em;
@@ -249,5 +249,11 @@ body {
 }
 .footer {
     padding: 90px 0;
+    width: auto;
+}
+.footer-text {
+    
+    max-width: 184px;
+    margin: 0 auto;
 }
 }
